@@ -7,7 +7,7 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make splitkb/halcyon/elora:default
+    make splitkb/halcyon/elora/rev2:default
 
 The keyboard can be flashed by copying the resulting `.uf2` file onto the `RPI-RP2` flash drive.
 
